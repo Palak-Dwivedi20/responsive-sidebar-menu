@@ -1,6 +1,14 @@
 # responsive-sidebar-menu
 Creative button UI designs built with HTML &amp; CSS — made while learning frontend through the Delta Batch by Apna College. 🎨
 
+## 💻 Project Output
+
+### 🔸 Default View (Sidebar Closed)
+![Default View](default-view.png)
+
+### 🔹 Sidebar Opened
+![Sidebar Open](sidebar-open.png)
+
 
 # Responsive Sidebar Menu
 
